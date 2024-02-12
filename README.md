@@ -1,7 +1,8 @@
 # Text_Generation_using_Llama2_GGML
 
 ## Objective 🎯
-Built on Llama2 70B GGML model, this repository contains the code for a text generation model.
+1. Built on Llama2 GGML model, this repository contains the code for a text generation model. Llama 2 is a pretrained model and comes with significant improvements over the Llama 1 models, including being trained on 40% more tokens, having a much longer context length (4k tokens), and using grouped-query attention.
+2. This model can be used for creating essays, social media posts, poems, song lyrics etc.
 ## User Interface :technologist:
 <br />
 
