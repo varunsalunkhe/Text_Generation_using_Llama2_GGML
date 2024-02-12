@@ -10,9 +10,9 @@
   
 ## 📝 Description
 - Implemented a system capable of creating text based on specific user requests.
-- Explored the adaptability of the LLMMA2 model for varied content generation.
+- Explored the adaptability of the Llama 2 model for varied content generation.
 - Focused on pushing the boundaries of conventional text generation with innovative features.
-- Addressed challenges in optimizing the [LLMMA2](https://huggingface.co/meta-llama) model for real-time, personalized responses. Aimed to redefine user interaction with AI-generated content.
+- Addressed challenges in optimizing the [Llama 2](https://huggingface.co/meta-llama) model for real-time, personalized responses. Aimed to redefine user interaction with AI-generated content.
   
 
 ## Installation :desktop_computer:
