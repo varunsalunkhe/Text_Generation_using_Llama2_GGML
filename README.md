@@ -1,8 +1,7 @@
 # Text_Generation_using_Llama2_GGML
 
 ## Objective 🎯
-Develop and demonstrate the LLM Project utilizing the LLMMA2 model from Meta, focused on creating a versatile and personalized text generation system. The project aims to showcase the advanced capabilities of the LLMMA2 model in understanding and responding to user input, pushing the boundaries of natural language processing for innovative and tailored content creation.
-
+Built on Llama2 70B GGML model, this repository contains the code for a text generation model.
 ## User Interface :technologist:
 <br />
 
